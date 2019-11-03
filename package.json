@@ -1,0 +1,21 @@
+{
+  "name": "@rootstream/rc-typed",
+  "version": "1.0.0",
+  "description": "rc package integrated with parse-strings-in-object and correct type preservation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootstream/rc-typed.git"
+  },
+  "author": "Sepehr Laal <sepehr@rootstream.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rootstream/rc-typed/issues"
+  },
+  "homepage": "https://github.com/rootstream/rc-typed#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "parse-strings-in-object": "^1.2.0",
+    "rc": "^1.2.8"
+  }
+}
