@@ -15,7 +15,7 @@
   "homepage": "https://github.com/rootstream/rc-typed#readme",
   "dependencies": {
     "debug": "^4.1.1",
-    "parse-strings-in-object": "^1.2.0",
+    "parse-strings-in-object": "^2.0.0",
     "rc": "^1.2.8"
   }
 }
