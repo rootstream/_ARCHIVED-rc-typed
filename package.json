@@ -1,6 +1,6 @@
 {
   "name": "@rootstream/rc-typed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rc package integrated with parse-strings-in-object and correct type preservation",
   "main": "index.js",
   "repository": {
